@@ -1,0 +1,14 @@
+layout_spectrum: 0.8480238218326122
+typography_spectrum: 0.8459118902683258
+color:
+  brandStrength: 0.8371524440590292
+  lightness: 0.9200030099600554
+  saturation: 0.7972894832491875
+  rhythmicContrast: 0.3374840433243662
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: my eyes
