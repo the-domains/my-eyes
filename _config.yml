@@ -6,9 +6,9 @@ color:
   saturation: 0.7972894832491875
   rhythmicContrast: 0.3374840433243662
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: my eyes
